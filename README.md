@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhinandan
-- 👀 I’m interested in working on Data science and anslytics projects.
+- 👀 I’m interested in working on Data science and analytics projects.
 - 🌱 currently learning machine learning and AI.
 - 🦧 learning about databases
 - 📫 reach me at abhinandanv1408@gmail.com
