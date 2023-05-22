@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhinandan
 - 👀 I’m interested in working on Data science and analytics projects.
 - 🌱 currently learning machine learning and AI.
-- 🦧 learning about databases
+- 🦧 Enrolled in MSBA program in UCIrvine
 - 📫 reach me at abhinandanv1408@gmail.com
 - 🥊 https://eportfolio.mygreatlearning.com/abhinandan-verma 
 <!---
