@@ -2,7 +2,7 @@
 - 👀 I’m interested in working on Data science and Analytics projects.
 - 🌱 Currently learning Machine Learning and AI.
 - 🦧 Enrolled in MSBA program at UC Irvine
-- 📫 Reach me at abhinanv@uci.edu
+- 📫 Reach me at abhinanv@uci.edu or abhinandanv1408@gmail.com
 - 🥊 Coursework Repository: https://eportfolio.mygreatlearning.com/abhinandan-verma 
 <!---
 AbhinandanV8/AbhinandanV8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
